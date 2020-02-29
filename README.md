@@ -14,11 +14,11 @@
 
 <h3>Cloning an Existing Repository ( Clone with HTTPS )</h3>
 <pre><code>
-root@slife:~# git clone https://github.com/omurugur/CEHV10.git
+root@slife:~# git clone https://github.com/omurugur/CEH-v10-Dumps.git
 </code></pre>
 <h3>Cloning an Existing Repository ( Clone with SSH )</h3>
 <pre><code>
-root@slife:~# git clone git@github.com:omurugur/CEHV10.git
+root@slife:~# git clone git@github.com:omurugur/CEH-v10-Dumps.git
 </code></pre>
 
 <h3>Contact :</h3>
