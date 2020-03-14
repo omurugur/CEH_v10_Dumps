@@ -8,7 +8,9 @@
 <p>
           <a target="_blank" rel="noopener noreferrer" href="https://opensource.org/licenses/MIT"><img src="https://camo.githubusercontent.com/5d454a1a25b3f3d16a6a6301933cf1d1471704da/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f616e74692d64646f732f416e74692d44444f53" data-canonical-src="https://opensource.org/licenses/MIT" style="max-width:100%;"></a>
         <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667"><img src="https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width:100%;"></a> 
-   
+           <a target="_blank" rel="noopener noreferrer" href="https://liberapay.com/slife/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" data-canonical-src="https://liberapay.com/slife/donate" style="max-width:100%;"></a>
+        
+    
      
        
 The Certified Ethical Hacker (CEH) program is the most comprehensive ethical hacking course on the globe to help information security professionals grasp the fundamentals of ethical hacking. The course outcome helps you become a professional who systematically attempts to inspect network infrastructures with the consent of its owner to find security vulnerabilities which a malicious hacker could potentially exploit. The course helps you assess the security posture of an organization by identifying vulnerabilities in the network and system infrastructure to determine if unauthorized access is possible. The CEH is the first of a series of 3 comprehensive courses (CEH, ECSA and the APT course) to help a cyber security professional master penetration testing.
@@ -49,6 +51,4 @@ root@slife:~# git clone git@github.com:omurugur/CEH-v10-Dumps.git
 Support the authors:
 
 
-<h5>LiberaPay:</h5>
 
-<noscript><a href="https://liberapay.com/slife/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
