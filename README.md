@@ -47,9 +47,9 @@ root@slife:~# git clone git@github.com:omurugur/CEH-v10-Dumps.git
 
 <h5>GitHub  : https://github.com/omurugur </h5>
 
-<h5>Twitter  : https://github.com/omurugur </h5>
+<h5>Twitter  : https://twitter.com/omurugurrr </h5>
 
-<h5>Medium  : https://github.com/omurugur </h5>
+<h5>Medium  : https://medium.com/@mruur </h5>
 
 <h5>Donate!</h5>
 </p>
